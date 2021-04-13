@@ -1,0 +1,37 @@
+{
+  "name": "symbaroum-babele-sv",
+  "title": "Translation: Svenska (Symbaroum)",
+  "description": "Swedish translation of Paul Watson's Symbaroum system for Foundry VTT. -  Svensk översättning av Paul Watsons Symbaroum-system till Foundry VTT.",
+  "version": "0.222.1",
+  "minimumCoreVersion" : "0.7.0",
+  "compatibleCoreVersion":"0.7.9",
+  "author": "Rangertheman",
+  "esmodules": ["babele-register.js"],
+  "scripts": [],
+  "styles": [],
+  "dependencies": [
+    {
+      "name": "babele",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+      "version": "1.20"
+    },
+    {
+      "name": "Symbaroum",
+      "type": "system",
+      "version": "2.22.0"
+    }
+  ],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "sv",
+      "name": "Svenska",
+      "path": "lang/sv.json"
+    }
+  ],
+  "system": "Symbaroum",
+  "systemVersion": "2.22.0",
+  "url": "https://github.com/Rangertheman/symbaroum-babele-sv",
+  "manifest": "https://raw.githubusercontent.com/Rangertheman/symbaroum-babele-sv/master/module.json",
+  "download": "https://github.com/Rangertheman/symbaroum-babele-sv/archive/master.zip"
+}
