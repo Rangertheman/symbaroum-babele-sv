@@ -1,0 +1,160 @@
+{
+	"label": "Vapen",
+	"entries": [
+		{
+			"id": "Arbalest",
+			"name": "Arbalest",
+			"description": ""
+		},
+		{
+			"id": "Axe",
+			"name": "Yxa",
+			"description": ""
+		},
+		{
+			"id": "Bastard Sword, one hand grip",
+			"name": "Bastardavärd, enhandsfattning",
+			"description": ""
+		},
+		{
+			"id": "Bastard Sword, two-handed grip",
+			"name": "Bastardsvärd, tvåhandsfattning",
+			"description": ""
+		},
+		{
+			"id": "Battle claw",
+			"name": "Stridsklo",
+			"description": ""
+		},
+		{
+			"id": "Bow",
+			"name": "Pilbåge",
+			"description": ""
+		},
+		{
+			"id": "Buckler",
+			"name": "Bucklare",
+			"description": ""
+		},
+		{
+			"id": "Crossbow",
+			"name": "Armborst",
+			"description": null
+		},
+		{
+			"id": "Crow’s Beak",
+			"name": "Korpnäbb",
+			"description": ""
+		},
+		{
+			"id": "Dagger",
+			"name": "Dolk",
+			"description": ""
+		},
+		{
+			"id": "Double-axe",
+			"name": "Dubelyxa",
+			"description": ""
+		},
+		{
+			"id": "Fencing Sword",
+			"name": "Duellsvärd",
+			"description": ""
+		},
+		{
+			"id": "Flail",
+			"name": "Stridsgissel",
+			"description": ""
+		},
+		{
+			"id": "Halberd",
+			"name": "Hillebard",
+			"description": ""
+		},
+		{
+			"id": "Heavy flail",
+			"name": "Stridsslagal",
+			"description": ""
+		},
+		{
+			"id": "Heavy weapon",
+			"name": "Tunga vapen",
+			"description": ""
+		},
+		{
+			"id": "Longbow",
+			"name": "Långbåge",
+			"description": ""
+		},
+		{
+			"id": "Natural weapon",
+			"name": "Naturliga vapen",
+			"description": ""
+		},
+		{
+			"id": "Parrying Dagger",
+			"name": "Parerdolk",
+			"description": ""
+		},
+		{
+			"id": "Pike",
+			"name": "Pik",
+			"description": ""
+		},
+		{
+			"id": "Quarterstaff",
+			"name": "Vandringsstav",
+			"description": ""
+		},
+		{
+			"id": "Shield",
+			"name": "Sköld",
+			"description": ""
+		},
+		{
+			"id": "Sling",
+			"name": "Slunga",
+			"description": ""
+		},
+		{
+			"id": "Spear Sling",
+			"name": "Spjutslunga",
+			"description": ""
+		},
+		{
+			"id": "Spiked club",
+			"name": "Spikklubba",
+			"description": ""
+		},
+		{
+			"id": "Steel shield",
+			"name": "Stålsköld",
+			"description": ""
+		},
+		{
+			"id": "Stiletto",
+			"name": "Stylett",
+			"description": ""
+		},
+		{
+			"id": "Sword",
+			"name": "Svärd",
+			"description": ""
+		},
+		{
+			"id": "Throwing axe",
+			"name": "Kastyxa",
+			"description": ""
+		},
+		{
+			"id": "Throwing knife",
+			"name": "Kastknivare",
+			"description": ""
+		},
+		{
+			"id": "Unarmed combat",
+			"name": "Obevärpnad attack",
+			"description": ""
+		}
+	]
+}

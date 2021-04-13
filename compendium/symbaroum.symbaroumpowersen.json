@@ -1,0 +1,275 @@
+{
+	"label": "Krafter",
+	"entries": [
+		{
+			"id": "Anathema",
+			"name": "Anathema",
+			"description": ""
+		},
+		{
+			"id": "Banishing Seal",
+			"name": "Banishing Seal",
+			"description": ""
+		},
+		{
+			"id": "Battle Symbol",
+			"name": "Battle Symbol",
+			"description": ""
+		},
+		{
+			"id": "Bend Will",
+			"name": "Bend Will",
+			"description": ""
+		},
+		{
+			"id": "Black Bolt",
+			"name": "Black Bolt",
+			"description": ""
+		},
+		{
+			"id": "Black Breath",
+			"name": "Black Breath",
+			"description": ""
+		},
+		{
+			"id": "Blessed Shield",
+			"name": "Blessed Shield",
+			"description": ""
+		},
+		{
+			"id": "Blinding Symbol",
+			"name": "Blinding Symbol",
+			"description": ""
+		},
+		{
+			"id": "Brimstone Cascade",
+			"name": "Brimstone Cascade",
+			"description": ""
+		},
+		{
+			"id": "Combat Hymn",
+			"name": "Combat Hymn",
+			"description": ""
+		},
+		{
+			"id": "Confusion",
+			"name": "Confusion",
+			"description": ""
+		},
+		{
+			"id": "Curse",
+			"name": "Curse",
+			"description": ""
+		},
+		{
+			"id": "Dancing Weapon",
+			"name": "Dancing Weapon",
+			"description": ""
+		},
+		{
+			"id": "Draining Glyph",
+			"name": "Draining Glyph",
+			"description": ""
+		},
+		{
+			"id": "Earth Binding",
+			"name": "Earth Binding",
+			"description": ""
+		},
+		{
+			"id": "Earth Shot",
+			"name": "Earth Shot",
+			"description": ""
+		},
+		{
+			"id": "Entangling Vines",
+			"name": "Entangling Vines",
+			"description": ""
+		},
+		{
+			"id": "Exorcize",
+			"name": "Exorcize",
+			"description": ""
+		},
+		{
+			"id": "Fire Soul",
+			"name": "Fire Soul",
+			"description": ""
+		},
+		{
+			"id": "Flame Wall",
+			"name": "Flame Wall",
+			"description": ""
+		},
+		{
+			"id": "Heroic Hymn",
+			"name": "Heroic Hymn",
+			"description": ""
+		},
+		{
+			"id": "Holy Aura",
+			"name": "Holy Aura",
+			"description": ""
+		},
+		{
+			"id": "Illusory Correction",
+			"name": "Illusory Correction",
+			"description": ""
+		},
+		{
+			"id": "Inherit Wound",
+			"name": "Inherit Wound",
+			"description": ""
+		},
+		{
+			"id": "Larvae Boil",
+			"name": "Larvae Boil",
+			"description": ""
+		},
+		{
+			"id": "Lay on Hands",
+			"name": "Lay on Hands",
+			"description": ""
+		},
+		{
+			"id": "Levitate",
+			"name": "Levitate",
+			"description": ""
+		},
+		{
+			"id": "Lifegiver",
+			"name": "Lifegiver",
+			"description": ""
+		},
+		{
+			"id": "Maltransformation",
+			"name": "Maltransformation",
+			"description": ""
+		},
+		{
+			"id": "Mark of Torment",
+			"name": "Mark of Torment",
+			"description": ""
+		},
+		{
+			"id": "Mind-throw",
+			"name": "Mind-throw",
+			"description": ""
+		},
+		{
+			"id": "Mirroring",
+			"name": "Mirroring",
+			"description": ""
+		},
+		{
+			"id": "Natures Embrace",
+			"name": "Natures Embrace",
+			"description": ""
+		},
+		{
+			"id": "Prios Burning Glass",
+			"name": "Prios Burning Glass",
+			"description": ""
+		},
+		{
+			"id": "Protective Runes",
+			"name": "Protective Runes",
+			"description": ""
+		},
+		{
+			"id": "Psychic Thrust",
+			"name": "Psychic Thrust",
+			"description": ""
+		},
+		{
+			"id": "Purgatory",
+			"name": "Purgatory",
+			"description": ""
+		},
+		{
+			"id": "Retribution",
+			"name": "Retribution",
+			"description": ""
+		},
+		{
+			"id": "Revenant Strike",
+			"name": "Revenant Strike",
+			"description": ""
+		},
+		{
+			"id": "Serenity",
+			"name": "Serenity",
+			"description": ""
+		},
+		{
+			"id": "Shapeshift",
+			"name": "Shapeshift",
+			"description": ""
+		},
+		{
+			"id": "Sphere",
+			"name": "Sphere",
+			"description": ""
+		},
+		{
+			"id": "Spirit Walk",
+			"name": "Spirit Walk",
+			"description": ""
+		},
+		{
+			"id": "Staff Projectile",
+			"name": "Staff Projectile",
+			"description": ""
+		},
+		{
+			"id": "Storm Arrow",
+			"name": "Storm Arrow",
+			"description": ""
+		},
+		{
+			"id": "Teleport",
+			"name": "Teleport",
+			"description": ""
+		},
+		{
+			"id": "Thorn Cloak",
+			"name": "Thorn Cloak",
+			"description": ""
+		},
+		{
+			"id": "Tormenting Spirits",
+			"name": "Tormenting Spirits",
+			"description": ""
+		},
+		{
+			"id": "True Form",
+			"name": "True Form",
+			"description": ""
+		},
+		{
+			"id": "Unholy Aura",
+			"name": "Unholy Aura",
+			"description": ""
+		},
+		{
+			"id": "Unnoticeable",
+			"name": "Unnoticeable",
+			"description": ""
+		},
+		{
+			"id": "Weakening Hymn",
+			"name": "Weakening Hymn",
+			"description": ""
+		},
+		{
+			"id": "Wild Hunt",
+			"name": "Wild Hunt",
+			"description": ""
+		},
+		{
+			"id": "Witch Hammer",
+			"name": "Witch Hammer",
+			"description": ""
+		}
+	]
+}

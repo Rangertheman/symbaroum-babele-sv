@@ -1,0 +1,70 @@
+{
+	"label": "Rustningar",
+	"entries": [
+		{
+			"id": "Armored",
+			"name": "Rustad",
+			"description": ""
+		},
+		{
+			"id": "Blessed Robe",
+			"name": "Välsignad kåpa",
+			"description": ""
+		},
+		{
+			"id": "Crow Armor",
+			"name": "Kråkrustning",
+			"description": null
+		},
+		{
+			"id": "Full Plate",
+			"name": "Helrustning",
+			"description": ""
+		},
+		{
+			"id": "Heavy Armor",
+			"name": "Tung rustning",
+			"description": ""
+		},
+		{
+			"id": "Lacquered Silk Cuirass",
+			"name": "Lackerad silkeskyrass",
+			"description": ""
+		},
+		{
+			"id": "Light Armor",
+			"name": "Lätt rustning",
+			"description": null
+		},
+		{
+			"id": "Medium Armor",
+			"name": "Medeltung rustning",
+			"description": ""
+		},
+		{
+			"id": "Order Cloak",
+			"name": "Ordensrober",
+			"description": ""
+		},
+		{
+			"id": "Scalemail",
+			"name": "Fjällpansar",
+			"description": ""
+		},
+		{
+			"id": "Witch Gown",
+			"name": "Häxsärk",
+			"description": null
+		},
+		{
+			"id": "Wolf Skin",
+			"name": "Ulvaskinn",
+			"description": ""
+		},
+		{
+			"id": "Woven Silk",
+			"name": "Flätat silke",
+			"description": null
+		}
+	]
+}

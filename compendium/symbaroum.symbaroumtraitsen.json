@@ -1,0 +1,300 @@
+{
+	"label": "Särdrag",
+	"entries": [
+		{
+			"id": "Acidic Attack",
+			"name": "Acidic Attack",
+			"description": ""
+		},
+		{
+			"id": "Acidic Blood",
+			"name": "Acidic Blood",
+			"description": ""
+		},
+		{
+			"id": "Alternative Damage",
+			"name": "Alternative Damage",
+			"description": ""
+		},
+		{
+			"id": "Amphibian",
+			"name": "Amphibian",
+			"description": ""
+		},
+		{
+			"id": "Armored",
+			"name": "Armored",
+			"description": ""
+		},
+		{
+			"id": "Avenging Successor",
+			"name": "Avenging Successor",
+			"description": ""
+		},
+		{
+			"id": "Bloodlust",
+			"name": "Bloodlust",
+			"description": ""
+		},
+		{
+			"id": "Carapace",
+			"name": "Carapace",
+			"description": ""
+		},
+		{
+			"id": "Collective Power",
+			"name": "Collective Power",
+			"description": ""
+		},
+		{
+			"id": "Colossal",
+			"name": "Colossal",
+			"description": ""
+		},
+		{
+			"id": "Companions",
+			"name": "Companions",
+			"description": ""
+		},
+		{
+			"id": "Corrupting Attack",
+			"name": "Corrupting Attack",
+			"description": ""
+		},
+		{
+			"id": "Corruption Hoarder",
+			"name": "Corruption Hoarder",
+			"description": ""
+		},
+		{
+			"id": "Corruption Sensitive",
+			"name": "Corruption Sensitive",
+			"description": ""
+		},
+		{
+			"id": "Crushing Embrace",
+			"name": "Crushing Embrace",
+			"description": ""
+		},
+		{
+			"id": "Deadly Breath",
+			"name": "Deadly Breath",
+			"description": ""
+		},
+		{
+			"id": "Death Struggle",
+			"name": "Death Struggle",
+			"description": ""
+		},
+		{
+			"id": "Devour",
+			"name": "Devour",
+			"description": ""
+		},
+		{
+			"id": "Diminutive",
+			"name": "Diminutive",
+			"description": ""
+		},
+		{
+			"id": "Enthrall",
+			"name": "Enthrall",
+			"description": ""
+		},
+		{
+			"id": "Free Spirit",
+			"name": "Free Spirit",
+			"description": ""
+		},
+		{
+			"id": "Grappling Tongue",
+			"name": "Grappling Tongue",
+			"description": ""
+		},
+		{
+			"id": "Gravely Cold",
+			"name": "Gravely Cold",
+			"description": ""
+		},
+		{
+			"id": "Harmful Aura",
+			"name": "Harmful Aura",
+			"description": ""
+		},
+		{
+			"id": "Haunting",
+			"name": "Haunting",
+			"description": ""
+		},
+		{
+			"id": "Infectious",
+			"name": "Infectious",
+			"description": ""
+		},
+		{
+			"id": "Infestation",
+			"name": "Infestation",
+			"description": ""
+		},
+		{
+			"id": "Invisibility",
+			"name": "Invisibility",
+			"description": ""
+		},
+		{
+			"id": "Leap",
+			"name": "Leap",
+			"description": ""
+		},
+		{
+			"id": "Life Sense",
+			"name": "Life Sense",
+			"description": ""
+		},
+		{
+			"id": "Manifestation",
+			"name": "Manifestation",
+			"description": ""
+		},
+		{
+			"id": "Many-headed",
+			"name": "Many-headed",
+			"description": ""
+		},
+		{
+			"id": "Metamorphosis",
+			"name": "Metamorphosis",
+			"description": ""
+		},
+		{
+			"id": "Mystical Resistance",
+			"name": "Mystical Resistance",
+			"description": ""
+		},
+		{
+			"id": "Natural Weapon",
+			"name": "Natural Weapon",
+			"description": ""
+		},
+		{
+			"id": "Night Perception",
+			"name": "Night Perception",
+			"description": ""
+		},
+		{
+			"id": "Observant",
+			"name": "Observant",
+			"description": ""
+		},
+		{
+			"id": "Paralyzing Venom",
+			"name": "Paralyzing Venom",
+			"description": ""
+		},
+		{
+			"id": "Piercing Attack",
+			"name": "Piercing Attack",
+			"description": ""
+		},
+		{
+			"id": "Poison Spit",
+			"name": "Poison Spit",
+			"description": ""
+		},
+		{
+			"id": "Poisonous",
+			"name": "Poisonous",
+			"description": ""
+		},
+		{
+			"id": "Prehensile Claws",
+			"name": "Prehensile Claws",
+			"description": ""
+		},
+		{
+			"id": "Rampage",
+			"name": "Rampage",
+			"description": ""
+		},
+		{
+			"id": "Regeneration",
+			"name": "Regeneration",
+			"description": ""
+		},
+		{
+			"id": "Robust",
+			"name": "Robust",
+			"description": ""
+		},
+		{
+			"id": "Root Wall",
+			"name": "Root Wall",
+			"description": ""
+		},
+		{
+			"id": "Shapeshifter",
+			"name": "Shapeshifter",
+			"description": ""
+		},
+		{
+			"id": "Spirit form",
+			"name": "Spirit form",
+			"description": ""
+		},
+		{
+			"id": "Sturdy",
+			"name": "Sturdy",
+			"description": ""
+		},
+		{
+			"id": "Summoner",
+			"name": "Summoner",
+			"description": ""
+		},
+		{
+			"id": "Survival Instinct",
+			"name": "Survival Instinct",
+			"description": ""
+		},
+		{
+			"id": "Swarm",
+			"name": "Swarm",
+			"description": ""
+		},
+		{
+			"id": "Swift",
+			"name": "Swift",
+			"description": ""
+		},
+		{
+			"id": "Terrify",
+			"name": "Terrify",
+			"description": ""
+		},
+		{
+			"id": "Tunneler",
+			"name": "Tunneler",
+			"description": ""
+		},
+		{
+			"id": "Undead",
+			"name": "Undead",
+			"description": ""
+		},
+		{
+			"id": "Web",
+			"name": "Web",
+			"description": ""
+		},
+		{
+			"id": "Wings",
+			"name": "Wings",
+			"description": ""
+		},
+		{
+			"id": "Wrecker",
+			"name": "Wrecker",
+			"description": ""
+		}
+	]
+}

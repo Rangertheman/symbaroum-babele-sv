@@ -1,0 +1,350 @@
+{
+	"label": "Färdigheter",
+	"entries": [
+		{
+			"id": "Acrobatics",
+			"name": "Akrobatik",
+			"description": ""
+		},
+		{
+			"id": "Agile Combat",
+			"name": "Rörlig strid",
+			"description": ""
+		},
+		{
+			"id": "Alchemy",
+			"name": "Alchemy",
+			"description": ""
+		},
+		{
+			"id": "Armored Mystic",
+			"name": "Armored Mystic",
+			"description": ""
+		},
+		{
+			"id": "Arrow Jab",
+			"name": "Arrow Jab",
+			"description": ""
+		},
+		{
+			"id": "Artifact Crafting",
+			"name": "Artifact Crafting",
+			"description": ""
+		},
+		{
+			"id": "Axe Artist",
+			"name": "Axe Artist",
+			"description": ""
+		},
+		{
+			"id": "Backstab",
+			"name": "Backstab",
+			"description": ""
+		},
+		{
+			"id": "Beast Lore",
+			"name": "Beast Lore",
+			"description": ""
+		},
+		{
+			"id": "Berserker",
+			"name": "Berserker",
+			"description": ""
+		},
+		{
+			"id": "Blacksmith",
+			"name": "Blacksmith",
+			"description": ""
+		},
+		{
+			"id": "Blessings",
+			"name": "Blessings",
+			"description": ""
+		},
+		{
+			"id": "Blood Combat",
+			"name": "Blood Combat",
+			"description": ""
+		},
+		{
+			"id": "Bodyguard",
+			"name": "Bodyguard",
+			"description": ""
+		},
+		{
+			"id": "Channeling",
+			"name": "Channeling",
+			"description": ""
+		},
+		{
+			"id": "Cheap Shot",
+			"name": "Cheap Shot",
+			"description": ""
+		},
+		{
+			"id": "Dominate",
+			"name": "Dominate",
+			"description": ""
+		},
+		{
+			"id": "Ensnare",
+			"name": "Ensnare",
+			"description": ""
+		},
+		{
+			"id": "Equestrian",
+			"name": "Equestrian",
+			"description": ""
+		},
+		{
+			"id": "Exceptional Attribute",
+			"name": "Exceptional Attribute",
+			"description": ""
+		},
+		{
+			"id": "Feat of Strength",
+			"name": "Feat of Strength",
+			"description": ""
+		},
+		{
+			"id": "Feint",
+			"name": "Feint",
+			"description": ""
+		},
+		{
+			"id": "Flailer",
+			"name": "Flailer",
+			"description": ""
+		},
+		{
+			"id": "Hammer Rhythm",
+			"name": "Hammer Rhythm",
+			"description": ""
+		},
+		{
+			"id": "Hunters Instinct",
+			"name": "Hunters Instinct",
+			"description": ""
+		},
+		{
+			"id": "Iron Fist",
+			"name": "Iron Fist",
+			"description": ""
+		},
+		{
+			"id": "Knife Play",
+			"name": "Knife Play",
+			"description": ""
+		},
+		{
+			"id": "Leader",
+			"name": "Leader",
+			"description": ""
+		},
+		{
+			"id": "Loremaster",
+			"name": "Loremaster",
+			"description": ""
+		},
+		{
+			"id": "Man-at-arms",
+			"name": "Man-at-arms",
+			"description": ""
+		},
+		{
+			"id": "Mantle Dance",
+			"name": "Mantle Dance",
+			"description": ""
+		},
+		{
+			"id": "Marksman",
+			"name": "Marksman",
+			"description": ""
+		},
+		{
+			"id": "Medicus",
+			"name": "Medicus",
+			"description": ""
+		},
+		{
+			"id": "Natural Warrior",
+			"name": "Natural Warrior",
+			"description": ""
+		},
+		{
+			"id": "Opportunist",
+			"name": "Opportunist",
+			"description": ""
+		},
+		{
+			"id": "Poisoner",
+			"name": "Poisoner",
+			"description": ""
+		},
+		{
+			"id": "Polearm Mastery",
+			"name": "Polearm Mastery",
+			"description": ""
+		},
+		{
+			"id": "Pyrotechnics",
+			"name": "Pyrotechnics",
+			"description": ""
+		},
+		{
+			"id": "Quick Draw",
+			"name": "Quick Draw",
+			"description": ""
+		},
+		{
+			"id": "Rapid Fire",
+			"name": "Rapid Fire",
+			"description": ""
+		},
+		{
+			"id": "Rapid Reflexes",
+			"name": "Rapid Reflexes",
+			"description": ""
+		},
+		{
+			"id": "Recovery",
+			"name": "Recovery",
+			"description": ""
+		},
+		{
+			"id": "Ritualist",
+			"name": "Ritualist",
+			"description": ""
+		},
+		{
+			"id": "Rune Tattoo",
+			"name": "Rune Tattoo",
+			"description": ""
+		},
+		{
+			"id": "Shield Fighter",
+			"name": "Shield Fighter",
+			"description": ""
+		},
+		{
+			"id": "Siege Expert",
+			"name": "Siege Expert",
+			"description": ""
+		},
+		{
+			"id": "Sixth Sense",
+			"name": "Sixth Sense",
+			"description": ""
+		},
+		{
+			"id": "Sorcery",
+			"name": "Sorcery",
+			"description": ""
+		},
+		{
+			"id": "Staff Fighting",
+			"name": "Staff Fighting",
+			"description": ""
+		},
+		{
+			"id": "Staff Magic",
+			"name": "Staff Magic",
+			"description": ""
+		},
+		{
+			"id": "Steadfast",
+			"name": "Steadfast",
+			"description": ""
+		},
+		{
+			"id": "Steel Throw",
+			"name": "Steel Throw",
+			"description": ""
+		},
+		{
+			"id": "Strangler",
+			"name": "Strangler",
+			"description": ""
+		},
+		{
+			"id": "Strong Gift",
+			"name": "Strong Gift",
+			"description": ""
+		},
+		{
+			"id": "Sword Saint",
+			"name": "Sword Saint",
+			"description": ""
+		},
+		{
+			"id": "Symbolism",
+			"name": "Symbolism",
+			"description": ""
+		},
+		{
+			"id": "Tactician",
+			"name": "Tactician",
+			"description": ""
+		},
+		{
+			"id": "Theurgy",
+			"name": "Theurgy",
+			"description": ""
+		},
+		{
+			"id": "Trapper",
+			"name": "Trapper",
+			"description": ""
+		},
+		{
+			"id": "Trick Archery",
+			"name": "Trick Archery",
+			"description": ""
+		},
+		{
+			"id": "Troll Singing",
+			"name": "Troll Singing",
+			"description": ""
+		},
+		{
+			"id": "Twin Attack",
+			"name": "Twin Attack",
+			"description": ""
+		},
+		{
+			"id": "Two-handed Finesse",
+			"name": "Two-handed Finesse",
+			"description": ""
+		},
+		{
+			"id": "Two-handed Force",
+			"name": "Two-handed Force",
+			"description": ""
+		},
+		{
+			"id": "Whip Fighter",
+			"name": "Whip Fighter",
+			"description": ""
+		},
+		{
+			"id": "Witchcraft",
+			"name": "Witchcraft",
+			"description": ""
+		},
+		{
+			"id": "Witchsight",
+			"name": "Witchsight",
+			"description": ""
+		},
+		{
+			"id": "Wizardry",
+			"name": "Wizardry",
+			"description": ""
+		},
+		{
+			"id": "Wrestling",
+			"name": "Wrestling",
+			"description": ""
+		}
+	]
+}
