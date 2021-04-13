@@ -4,7 +4,7 @@
 
 * Swedish translation of Paul Watson's Symbaroum system for Foundry VTT.
 ----
-* Svensk översättning av Paul Watson's Symbaroum-system till Foundry VTT.
+* Svensk översättning av Paul Watsons Symbaroum-system till Foundry VTT.
 
 ## Installation - Installation  
 
