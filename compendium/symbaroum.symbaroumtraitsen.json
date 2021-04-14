@@ -3,182 +3,182 @@
 	"entries": [
 		{
 			"id": "Acidic Attack",
-			"name": "Acidic Attack",
+			"name": "Frätande attack",
 			"description": ""
 		},
 		{
 			"id": "Acidic Blood",
-			"name": "Acidic Blood",
+			"name": "Frätande blod",
 			"description": ""
 		},
 		{
 			"id": "Alternative Damage",
-			"name": "Alternative Damage",
+			"name": "Alternativ skada",
 			"description": ""
 		},
 		{
 			"id": "Amphibian",
-			"name": "Amphibian",
+			"name": "Amfibisk",
 			"description": ""
 		},
 		{
 			"id": "Armored",
-			"name": "Armored",
+			"name": "Pansar",
 			"description": ""
 		},
 		{
 			"id": "Avenging Successor",
-			"name": "Avenging Successor",
+			"name": "Hämnande arvtagare",
 			"description": ""
 		},
 		{
 			"id": "Bloodlust",
-			"name": "Bloodlust",
+			"name": "Blodtörst",
 			"description": ""
 		},
 		{
 			"id": "Carapace",
-			"name": "Carapace",
+			"name": "Ryggsköldar",
 			"description": ""
 		},
 		{
 			"id": "Collective Power",
-			"name": "Collective Power",
+			"name": "Kollektiv kraft",
 			"description": ""
 		},
 		{
 			"id": "Colossal",
-			"name": "Colossal",
+			"name": "Väldig",
 			"description": ""
 		},
 		{
 			"id": "Companions",
-			"name": "Companions",
+			"name": "Följeslagare",
 			"description": ""
 		},
 		{
 			"id": "Corrupting Attack",
-			"name": "Corrupting Attack",
+			"name": "Korrumperande attack",
 			"description": ""
 		},
 		{
 			"id": "Corruption Hoarder",
-			"name": "Corruption Hoarder",
+			"name": "Korruptionssamlare",
 			"description": ""
 		},
 		{
 			"id": "Corruption Sensitive",
-			"name": "Corruption Sensitive",
+			"name": "Korruptionssensitiv",
 			"description": ""
 		},
 		{
 			"id": "Crushing Embrace",
-			"name": "Crushing Embrace",
+			"name": "Krossande kram",
 			"description": ""
 		},
 		{
 			"id": "Deadly Breath",
-			"name": "Deadly Breath",
+			"name": "Dödlig andedräkt",
 			"description": ""
 		},
 		{
 			"id": "Death Struggle",
-			"name": "Death Struggle",
+			"name": "Dödsryckningar",
 			"description": ""
 		},
 		{
 			"id": "Devour",
-			"name": "Devour",
+			"name": "Slukare",
 			"description": ""
 		},
 		{
 			"id": "Diminutive",
-			"name": "Diminutive",
+			"name": "Diminutiv",
 			"description": ""
 		},
 		{
 			"id": "Enthrall",
-			"name": "Enthrall",
+			"name": "Trollbinda",
 			"description": ""
 		},
 		{
 			"id": "Free Spirit",
-			"name": "Free Spirit",
+			"name": "Fri själ",
 			"description": ""
 		},
 		{
 			"id": "Grappling Tongue",
-			"name": "Grappling Tongue",
+			"name": "Fångsttunga",
 			"description": ""
 		},
 		{
 			"id": "Gravely Cold",
-			"name": "Gravely Cold",
+			"name": "Gravkyla",
 			"description": ""
 		},
 		{
 			"id": "Harmful Aura",
-			"name": "Harmful Aura",
+			"name": "Skadande aura",
 			"description": ""
 		},
 		{
 			"id": "Haunting",
-			"name": "Haunting",
+			"name": "Hemsökelse",
 			"description": ""
 		},
 		{
 			"id": "Infectious",
-			"name": "Infectious",
+			"name": "Smittsam",
 			"description": ""
 		},
 		{
 			"id": "Infestation",
-			"name": "Infestation",
+			"name": "Infestering",
 			"description": ""
 		},
 		{
 			"id": "Invisibility",
-			"name": "Invisibility",
+			"name": "Osynlighet",
 			"description": ""
 		},
 		{
 			"id": "Leap",
-			"name": "Leap",
+			"name": "Hoppförmåga",
 			"description": ""
 		},
 		{
 			"id": "Life Sense",
-			"name": "Life Sense",
+			"name": "Livssinne",
 			"description": ""
 		},
 		{
 			"id": "Manifestation",
-			"name": "Manifestation",
+			"name": "Manifestering",
 			"description": ""
 		},
 		{
 			"id": "Many-headed",
-			"name": "Many-headed",
+			"name": "Månghövdad,
 			"description": ""
 		},
 		{
 			"id": "Metamorphosis",
-			"name": "Metamorphosis",
+			"name": "Formförändring",
 			"description": ""
 		},
 		{
 			"id": "Mystical Resistance",
-			"name": "Mystical Resistance",
+			"name": "Mystisk motståndskraft",
 			"description": ""
 		},
 		{
 			"id": "Natural Weapon",
-			"name": "Natural Weapon",
+			"name": "Naturligt vapen",
 			"description": ""
 		},
 		{
 			"id": "Night Perception",
-			"name": "Night Perception",
+			"name": "Nattorientering",
 			"description": ""
 		},
 		{
@@ -188,32 +188,32 @@
 		},
 		{
 			"id": "Paralyzing Venom",
-			"name": "Paralyzing Venom",
+			"name": "Paralyserande gift",
 			"description": ""
 		},
 		{
 			"id": "Piercing Attack",
-			"name": "Piercing Attack",
+			"name": "Penetrerande attack",
 			"description": ""
 		},
 		{
 			"id": "Poison Spit",
-			"name": "Poison Spit",
+			"name": "Giftspott",
 			"description": ""
 		},
 		{
 			"id": "Poisonous",
-			"name": "Poisonous",
+			"name": "Giftig",
 			"description": ""
 		},
 		{
 			"id": "Prehensile Claws",
-			"name": "Prehensile Claws",
+			"name": "Gripklor",
 			"description": ""
 		},
 		{
 			"id": "Rampage",
-			"name": "Rampage",
+			"name": "Krossande framfart",
 			"description": ""
 		},
 		{
@@ -228,72 +228,72 @@
 		},
 		{
 			"id": "Root Wall",
-			"name": "Root Wall",
+			"name": "Rotmur",
 			"description": ""
 		},
 		{
 			"id": "Shapeshifter",
-			"name": "Shapeshifter",
+			"name": "Förväxling",
 			"description": ""
 		},
 		{
 			"id": "Spirit form",
-			"name": "Spirit form",
+			"name": "Andeform",
 			"description": ""
 		},
 		{
 			"id": "Sturdy",
-			"name": "Sturdy",
+			"name": "Livskraftig",
 			"description": ""
 		},
 		{
 			"id": "Summoner",
-			"name": "Summoner",
+			"name": "Frammanare",
 			"description": ""
 		},
 		{
 			"id": "Survival Instinct",
-			"name": "Survival Instinct",
+			"name": "Överlevnadsinstinkt",
 			"description": ""
 		},
 		{
 			"id": "Swarm",
-			"name": "Swarm",
+			"name": "Svärm",
 			"description": ""
 		},
 		{
 			"id": "Swift",
-			"name": "Swift",
+			"name": "Blixtsnabb",
 			"description": ""
 		},
 		{
 			"id": "Terrify",
-			"name": "Terrify",
+			"name": "Skräckslå",
 			"description": ""
 		},
 		{
 			"id": "Tunneler",
-			"name": "Tunneler",
+			"name": "Grävare",
 			"description": ""
 		},
 		{
 			"id": "Undead",
-			"name": "Undead",
+			"name": "Vandöd",
 			"description": ""
 		},
 		{
 			"id": "Web",
-			"name": "Web",
+			"name": "Fångstnä",
 			"description": ""
 		},
 		{
 			"id": "Wings",
-			"name": "Wings",
+			"name": "Vingar",
 			"description": ""
 		},
 		{
 			"id": "Wrecker",
-			"name": "Wrecker",
+			"name": "Bräckare",
 			"description": ""
 		}
 	]

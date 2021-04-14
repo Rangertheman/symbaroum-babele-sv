@@ -1,5 +1,5 @@
 {
-	"label": "Färdigheter",
+	"label": "Förmågor",
 	"entries": [
 		{
 			"id": "Acrobatics",
@@ -13,152 +13,152 @@
 		},
 		{
 			"id": "Alchemy",
-			"name": "Alchemy",
+			"name": "Alkemi",
 			"description": ""
 		},
 		{
 			"id": "Armored Mystic",
-			"name": "Armored Mystic",
+			"name": "Bepansrad mysiker",
 			"description": ""
 		},
 		{
 			"id": "Arrow Jab",
-			"name": "Arrow Jab",
+			"name": "Närstridsskytte",
 			"description": ""
 		},
 		{
 			"id": "Artifact Crafting",
-			"name": "Artifact Crafting",
+			"name": "Artefaktmakande",
 			"description": ""
 		},
 		{
 			"id": "Axe Artist",
-			"name": "Axe Artist",
+			"name": "Yxkonstnär",
 			"description": ""
 		},
 		{
 			"id": "Backstab",
-			"name": "Backstab",
+			"name": "Lönnstöt",
 			"description": ""
 		},
 		{
 			"id": "Beast Lore",
-			"name": "Beast Lore",
+			"name": "Monsterlärd",
 			"description": ""
 		},
 		{
 			"id": "Berserker",
-			"name": "Berserker",
+			"name": "Bärsärk",
 			"description": ""
 		},
 		{
 			"id": "Blacksmith",
-			"name": "Blacksmith",
+			"name": "Smideskonst",
 			"description": ""
 		},
 		{
 			"id": "Blessings",
-			"name": "Blessings",
+			"name": "Signerier",
 			"description": ""
 		},
 		{
 			"id": "Blood Combat",
-			"name": "Blood Combat",
+			"name": "Blodskamp",
 			"description": ""
 		},
 		{
 			"id": "Bodyguard",
-			"name": "Bodyguard",
+			"name": "Livvakt",
 			"description": ""
 		},
 		{
 			"id": "Channeling",
-			"name": "Channeling",
+			"name": "Kanalisering",
 			"description": ""
 		},
 		{
 			"id": "Cheap Shot",
-			"name": "Cheap Shot",
+			"name": "Tjyvknep",
 			"description": ""
 		},
 		{
 			"id": "Dominate",
-			"name": "Dominate",
+			"name": "Dominera",
 			"description": ""
 		},
 		{
 			"id": "Ensnare",
-			"name": "Ensnare",
+			"name": "Snärjande strid",
 			"description": ""
 		},
 		{
 			"id": "Equestrian",
-			"name": "Equestrian",
+			"name": "Ryttarkonst",
 			"description": ""
 		},
 		{
 			"id": "Exceptional Attribute",
-			"name": "Exceptional Attribute",
+			"name": "Exceptionellt karaktärsdrag",
 			"description": ""
 		},
 		{
 			"id": "Feat of Strength",
-			"name": "Feat of Strength",
+			"name": "Kraftprov",
 			"description": ""
 		},
 		{
 			"id": "Feint",
-			"name": "Feint",
+			"name": "Fint",
 			"description": ""
 		},
 		{
 			"id": "Flailer",
-			"name": "Flailer",
+			"name": "Stridsgisslare",
 			"description": ""
 		},
 		{
 			"id": "Hammer Rhythm",
-			"name": "Hammer Rhythm",
+			"name": "Hammarrytm",
 			"description": ""
 		},
 		{
 			"id": "Hunters Instinct",
-			"name": "Hunters Instinct",
+			"name": "Jaktinstinkt",
 			"description": ""
 		},
 		{
 			"id": "Iron Fist",
-			"name": "Iron Fist",
+			"name": "Järnnäve",
 			"description": ""
 		},
 		{
 			"id": "Knife Play",
-			"name": "Knife Play",
+			"name": "Knivgöra",
 			"description": ""
 		},
 		{
 			"id": "Leader",
-			"name": "Leader",
+			"name": "Ledarer",
 			"description": ""
 		},
 		{
 			"id": "Loremaster",
-			"name": "Loremaster",
+			"name": "Lärd",
 			"description": ""
 		},
 		{
 			"id": "Man-at-arms",
-			"name": "Man-at-arms",
+			"name": "Rustmästare",
 			"description": ""
 		},
 		{
 			"id": "Mantle Dance",
-			"name": "Mantle Dance",
+			"name": "Manteldans",
 			"description": ""
 		},
 		{
 			"id": "Marksman",
-			"name": "Marksman",
+			"name": "Prickskytt",
 			"description": ""
 		},
 		{
@@ -168,7 +168,7 @@
 		},
 		{
 			"id": "Natural Warrior",
-			"name": "Natural Warrior",
+			"name": "Naturlig krigare",
 			"description": ""
 		},
 		{
@@ -178,37 +178,37 @@
 		},
 		{
 			"id": "Poisoner",
-			"name": "Poisoner",
+			"name": "Guftbrukare",
 			"description": ""
 		},
 		{
 			"id": "Polearm Mastery",
-			"name": "Polearm Mastery",
+			"name": "Stångverkan",
 			"description": ""
 		},
 		{
 			"id": "Pyrotechnics",
-			"name": "Pyrotechnics",
+			"name": "Pyroteknik",
 			"description": ""
 		},
 		{
 			"id": "Quick Draw",
-			"name": "Quick Draw",
+			"name": "Snabbdrag",
 			"description": ""
 		},
 		{
 			"id": "Rapid Fire",
-			"name": "Rapid Fire",
+			"name": "Snabbskytte",
 			"description": ""
 		},
 		{
 			"id": "Rapid Reflexes",
-			"name": "Rapid Reflexes",
+			"name": "Blixtsnabba reflexer",
 			"description": ""
 		},
 		{
 			"id": "Recovery",
-			"name": "Recovery",
+			"name": "Återhämtning",
 			"description": ""
 		},
 		{
@@ -218,62 +218,62 @@
 		},
 		{
 			"id": "Rune Tattoo",
-			"name": "Rune Tattoo",
+			"name": "Runtatuering",
 			"description": ""
 		},
 		{
 			"id": "Shield Fighter",
-			"name": "Shield Fighter",
+			"name": "Sköldkamp",
 			"description": ""
 		},
 		{
 			"id": "Siege Expert",
-			"name": "Siege Expert",
+			"name": "Belägringskonst",
 			"description": ""
 		},
 		{
 			"id": "Sixth Sense",
-			"name": "Sixth Sense",
+			"name": "Sjätte sinne",
 			"description": ""
 		},
 		{
 			"id": "Sorcery",
-			"name": "Sorcery",
+			"name": "Svartkonst",
 			"description": ""
 		},
 		{
 			"id": "Staff Fighting",
-			"name": "Staff Fighting",
+			"name": "Stavkamp",
 			"description": ""
 		},
 		{
 			"id": "Staff Magic",
-			"name": "Staff Magic",
+			"name": "Stavmagi",
 			"description": ""
 		},
 		{
 			"id": "Steadfast",
-			"name": "Steadfast",
+			"name": "Ståndaktig",
 			"description": ""
 		},
 		{
 			"id": "Steel Throw",
-			"name": "Steel Throw",
+			"name": "Stålkast",
 			"description": ""
 		},
 		{
 			"id": "Strangler",
-			"name": "Strangler",
+			"name": "Stryparkonst",
 			"description": ""
 		},
 		{
 			"id": "Strong Gift",
-			"name": "Strong Gift",
+			"name": "Stark gåva",
 			"description": ""
 		},
 		{
 			"id": "Sword Saint",
-			"name": "Sword Saint",
+			"name": "Svärdshelgon",
 			"description": ""
 		},
 		{
@@ -283,67 +283,67 @@
 		},
 		{
 			"id": "Tactician",
-			"name": "Tactician",
+			"name": "Taktiker",
 			"description": ""
 		},
 		{
 			"id": "Theurgy",
-			"name": "Theurgy",
+			"name": "Teurgi",
 			"description": ""
 		},
 		{
 			"id": "Trapper",
-			"name": "Trapper",
+			"name": "Försåtsgillrare",
 			"description": ""
 		},
 		{
 			"id": "Trick Archery",
-			"name": "Trick Archery",
+			"name": "Trickskytte",
 			"description": ""
 		},
 		{
 			"id": "Troll Singing",
-			"name": "Troll Singing",
+			"name": "Trollsång",
 			"description": ""
 		},
 		{
 			"id": "Twin Attack",
-			"name": "Twin Attack",
+			"name": "Tvilingattack",
 			"description": ""
 		},
 		{
 			"id": "Two-handed Finesse",
-			"name": "Two-handed Finesse",
+			"name": "Tvåhandsfinesse",
 			"description": ""
 		},
 		{
 			"id": "Two-handed Force",
-			"name": "Two-handed Force",
+			"name": "Tvähandskraft",
 			"description": ""
 		},
 		{
 			"id": "Whip Fighter",
-			"name": "Whip Fighter",
+			"name": "Piskkämper",
 			"description": ""
 		},
 		{
 			"id": "Witchcraft",
-			"name": "Witchcraft",
+			"name": "Häxkonst",
 			"description": ""
 		},
 		{
 			"id": "Witchsight",
-			"name": "Witchsight",
+			"name": "Häxsyn",
 			"description": ""
 		},
 		{
 			"id": "Wizardry",
-			"name": "Wizardry",
+			"name": "Ordensmagi",
 			"description": ""
 		},
 		{
 			"id": "Wrestling",
-			"name": "Wrestling",
+			"name": "Brottning",
 			"description": ""
 		}
 	]
