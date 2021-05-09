@@ -73,7 +73,7 @@
 		},
 		{
 			"id": "Heavy flail",
-			"name": "Stridsslagal",
+			"name": "Stridsslaga",
 			"description": ""
 		},
 		{
@@ -148,12 +148,12 @@
 		},
 		{
 			"id": "Throwing knife",
-			"name": "Kastknivare",
+			"name": "Kastknivar",
 			"description": ""
 		},
 		{
 			"id": "Unarmed combat",
-			"name": "Obevärpnad attack",
+			"name": "Obeväpnad attack",
 			"description": ""
 		}
 	]
