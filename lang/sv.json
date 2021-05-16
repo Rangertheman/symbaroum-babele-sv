@@ -457,8 +457,8 @@
   "SYMBAROUM.OPTIONAL_SHOWREFERENCE_HINT": "Varning - enbart SL - tillåt att manuellt justera referensimplementation för förmågor, särdrag och mystiska krafter. Kräver omladdning (refresh).",
 
   "ACTOR": {
-        "TypeCharacter": "Rollperson",
-        "TypeNpc": "Spelledarperson"
+        "typesplayer": "Rollperson",
+        "typesmonster": "Monster"
     },
     "ITEM": {
         "TypeItem": "Föremål",
