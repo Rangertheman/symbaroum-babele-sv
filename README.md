@@ -42,6 +42,6 @@
 
 ## Versioner
 
-version 0.222.1:
+version 0.222.2:
 
 * initial release

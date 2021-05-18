@@ -1,6 +1,6 @@
 {
   "I18N.LANGUAGE":"Svenska",
-   "I18N.MAINTAINERS":"Weymyss",
+   "I18N.MAINTAINERS":"Weymyss, Rangertheman",
 
 "ABILITY.NAME": "Namn",
   "ABILITY.REFERENCE": "Reference",
@@ -195,8 +195,8 @@
   "DIALOG.ADVANTAGE": "Övertag",
   "DIALOG.DISADVANTAGE": "Underläge",
   "DIALOG.FAVOUR_NORMAL": "Normal",
-  "DIALOG.FAVOUR_FAVOUR": "Bästa av två slag", 
-  "DIALOG.FAVOUR_DISFAVOUR": "Sämsta av två slag",
+  "DIALOG.FAVOUR_FAVOUR": "Välj bästa av två", 
+  "DIALOG.FAVOUR_DISFAVOUR": "Välj sämsta av två",
   "DIALOG.DAMAGE_MODIFIER": "Skademod.",
   "DIALOG.WEAPON_DAMAGE": "Skadeslag",  
   "DIALOG.IMPEDING": "Inkludera begränsande avdrag?",
